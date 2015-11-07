@@ -1,14 +1,7 @@
 # Thunder-Meteorite
 The meteorite selling tool, and the other will be a meteorite buying tool. These programs are to be built in an object oriented manner. These will have a tool that shows the map of the world, which will be marked with the location of where the meteorite was found. Also, the system shall list out current meteorites for sale. 
 
-1 Instructions:
-CSE 1325
-Course Project Phase 1 Assigned: September 4, 2013 Due: October 4, 2013
-Students are to complete the following assignment by writing a pair of Java programs. These programs need to be complete and able to run in order to receive full credit. All work, diagrams, programs, and submitted outputs, should include the student name, UTA id number, and the date. You will need to demonstrate your code to Dr. Becker.
-To turn in the Java code for this assignment, create a zip file of the working directory, and rename the file YourUTAIdNumber.zip. Then, upload this assignment to Blackboard.
-In addition, any written documentation or diagrams must also be uploaded to Blackboard.
-If the students so wish, the project may be done in teams of two. In order to do so, teams must remain together throughout all phases of the project. Students wishing to work as a team must submit their request to the instructor in an e‐mail including both names and UTA student ID numbers.
-2 Objective:
+1 Objective:
 The goal of this project is to cover the introductory material of the Java language, including
  Use of basic data types,
  Controls,
@@ -16,12 +9,14 @@ The goal of this project is to cover the introductory material of the Java langu
  Files,
  Exception handling.
  Simple collection types
-3 Problem:
+
+2 Problem:
 Create two programs, one will be a meteorite selling tool, and the other will be a meteorite buying tool. These programs are to be built in an object oriented manner. These will have a tool that shows the map of the world, which will be marked with the location of where the meteorite was found. Also, the system shall list out current meteorites for sale. In addition, two UML class diagrams, one for each program, will be submitted for grading.
   
-4 The Diagrams and Output.
+3 The Diagrams and Output.
 Create a class diagram of each program, showing the aggregation and association between the classes. There should be no inheritance links in this phase of the project. There should be two diagrams: One for Meteorite Seller Tool, and one for Meteorite Buyer Tool. Turn in a printout of the finished map to Blackboard. The map must be populated with a minimum of 12 meteorites.
-5 The Meteorite Seller Tool:
+
+4 The Meteorite Seller Tool:
 Create a menu driven program that has the following options: 1. Load the World Map.
 2. Handle a Meteorite.
 3. Show the World Map with Meteorites.
